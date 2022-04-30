@@ -1,5 +1,14 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: brown;
+    color: rgb(75, 42, 165);
+    font-size: 24px;
+}
+
+#container{
+    border: 2px solid #000;
+    padding: 1em;
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
 }
